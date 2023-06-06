@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lakshaykapoor03.netlify.app/](https://lakshaykapoor03.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React.**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React, Redux, Bootstrap, Material UI, Parcel.js**
 
 - 📫 How to reach me **kapoorlakshay70@gmail.com, 7678332153.**
 
